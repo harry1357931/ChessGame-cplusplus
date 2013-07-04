@@ -1,7 +1,7 @@
 ChessGame
 =========
 
-In this chess game, no graphics are used at all, only characters are used to represent the chess board. Furthermore, 
+In this chess game, no graphics libraries are used at all, only characters are used to represent the chess board. Furthermore, 
 King, Queen and other members are represented by a box(7 x 5 array of chars). 
 Also, you can't use mouse to move king, queen or other members, you have to enter the horizontal and vertical location
 to refer to any king ,queen or any other member. 
